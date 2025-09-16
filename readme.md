@@ -54,4 +54,3 @@ Perda      : 4.44 cm² (9.7%)
 * Se a barra não for detectada, ajuste `FORCAR_LARGURA_PX`.
 * Fotos claras e sem reflexo dão melhor resultado.
 
-```

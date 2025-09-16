@@ -1,5 +1,3 @@
-Aqui está um **README.md** pronto para acompanhar seu script de cálculo de área foliar:
-
 ```markdown
 # 📏 Cálculo de Área Foliar com Calibração Automática
 
@@ -20,7 +18,7 @@ A calibração é feita automaticamente a partir da largura detectada da barra, 
 
 ---
 
-## 📂 Estrutura esperada
+##  Estrutura esperada
 Coloque na mesma pasta:
 ```
 
@@ -40,7 +38,7 @@ pip install opencv-python numpy matplotlib
 
 ---
 
-## ▶️ Como usar
+##  Como usar
 
 Execute o script no terminal:
 
@@ -68,7 +66,7 @@ perda_percentual,,9.730
 
 ---
 
-## ⚠️ Observações
+## Observações
 
 * Se a barra vermelha não for detectada automaticamente (condições de luz/foto ruim), ajuste a variável:
 
@@ -92,7 +90,7 @@ perda_percentual,,9.730
 
 ---
 
-## 📌 Exemplo de execução
+## Exemplo de execução
 
 ```
 Processando ANTES...
@@ -109,7 +107,7 @@ CSV salvo em: /caminho/relatorio_area_folha.csv
 
 ---
 
-## 📖 Licença
+## Licença
 
 Este projeto é de uso acadêmico/científico.
 Fique à vontade para adaptar e melhorar conforme necessário.

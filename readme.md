@@ -1,10 +1,8 @@
-````markdown
+
 # 🌿 Leaf Area Measurement with Automatic Calibration
 
 Script em **Python** para calcular a área de folhas antes e depois da herbivoria.  
 Ele usa uma **barra vermelha de 5 cm** na foto como referência para converter pixels em cm².
-
----
 
 ##  O que faz
 - Detecta automaticamente a barra vermelha (ou define manualmente).
@@ -16,11 +14,10 @@ Ele usa uma **barra vermelha de 5 cm** na foto como referência para converter p
 
 ## ⚙ Instalação
 Instale as dependências:
-```bash
+```
 pip install opencv-python numpy matplotlib
 ````
 
----
 
 ##  Como usar
 
@@ -37,8 +34,6 @@ Rode:
 python script.py
 ```
 
----
-
 ## Saída
 
 * Mostra área antes/depois no terminal.
@@ -52,7 +47,7 @@ Exemplo:
 Perda      : 4.44 cm² (9.7%)
 ```
 
----
+
 
 ## Observações
 

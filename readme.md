@@ -1,12 +1,12 @@
 ```markdown
-# 📏 Cálculo de Área Foliar com Calibração Automática
+# Cálculo de Área Foliar com Calibração Automática
 
 Este script em **Python** calcula a área foliar antes e depois da herbivoria utilizando uma **barra vermelha de referência (5 cm)** presente na foto.  
 A calibração é feita automaticamente a partir da largura detectada da barra, permitindo converter pixels em unidades reais (cm²).
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Leitura e conversão de imagens (OpenCV).
 - Detecção automática da barra vermelha para calibração de escala.
 - Segmentação da folha usando faixa de verde em HSV.
